@@ -1,5 +1,3 @@
-[Sign up with Formik](https://moldogazy.github.io/signup-with-formik/)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
